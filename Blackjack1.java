@@ -1,4 +1,4 @@
-package blackjack1;
+package com.mycompany.beadando5.blackjackrep;
 
 import java.util.Scanner;
 
