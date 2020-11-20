@@ -22,7 +22,7 @@
   <ol>
       <li>A fenti menüsorban keressük ki a <b>Team -> Git -> Clone</b>  lehetőséget 
           <br>
-          <img src =" képek/clone.png">
+          <img src ="képek/clone.png">
       </li>
       <li>A felugró ablakban töltsük ki az üres mezőket: 
           <br>
