@@ -47,7 +47,7 @@
       </li>   
       <li>
           Ekkor elkezdi letölteni a repo tartalmát a megadottak szerint, ha végzett szerkeszthetjük.
-          <<img src="képek/clone_folyamatban.png" />
+          <img src="képek/clone_folyamatban.png" />
       </li>
       
 
