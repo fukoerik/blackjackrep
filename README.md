@@ -40,7 +40,7 @@
       </li>
       <li> Ismét kapcsoljunk a <b>Next</b> gombra </li>
       <li>
-          Végül a lemásolt repo helyéről és a másolás után szerkesztendő branch-ről tesz fel kérdésst, ezt hagyjuk alap állapotban,
+          Végül a lemásolt repo helyéről és a másolás után szerkesztendő branch-ről tesz fel kérdésst.
           <br>
           <img src="képek/utolso.png">
           A jelölőnégyzetet vegyük ki, majd kapcsoljunk a <b>Finish</b> gombra
