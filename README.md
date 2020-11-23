@@ -6,7 +6,7 @@
   Úgy mint:
   <ul>
    <li>A repository chekoutolása (clone) (Györgyi Gyula)</li>
-   <li>Új tsrtalom rögzítése (commit)</li>
+   <li>Új tartalom rögzítése (commit) (Boros Máté, Fűkő Erik)</li>
    <li>Új fejlesztési ág (branch) létrehozása (Györgyi Gyula)</li>
    <li>Az új branch-ben történt változtatások ellenőrzése (pull request) </li>
    <li>Az elfogadott változtatások rögzítése és beolvasztása a fő ágba (merge) </li>
