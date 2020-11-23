@@ -53,14 +53,14 @@
 
   </ol>
 
-  <li>Elsőnek commitoltam a gépemen lévő repoba.</li>
+  <li>Elsőnek commitoltam a gépemen lévő repoba.(Boros Máté)</li>
   <img src="képek/bm1.png" />
   
-  <li>Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.
+  <li>Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.(Boros Máté)
   <img src="képek/bm2.png" />
   </li>
   
-  <li>Elsőnek commitoltam a gépemen lévő repoba.</li>
+  <li>Elsőnek commitoltam a gépemen lévő repoba. (Boros Máté)</li>
   <img src="képek/bm1.png" />
   
   <br>
