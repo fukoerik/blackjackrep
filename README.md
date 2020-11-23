@@ -59,5 +59,22 @@
   <li>Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.
   <img src="képek/bm2.png" />
   </li>
+  
+  <li>Elsőnek commitoltam a gépemen lévő repoba.</li>
+  <img src="képek/bm1.png" />
+  
+  <li>Új fájl hozzáadása a repository-hoz (Fűkő Erik)
+  <img src="képek/commit_e" />
+  </li>
+  
+  <li>Merge (Fűkő Erik)
+  <img src="képek/merge_e" />
+  <img src="képek/merge_e2" />
+  </li>
+  
+  <li>Pull (Fűkő Erik)
+  <img src="képek/pull_e" />
+  </li>
+  
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
