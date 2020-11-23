@@ -135,13 +135,10 @@
 </ol>
 <!---------------------------------------------------------------------------->
 <h2>Kommentek hozzáfűzése</h2>
- <h2>Teszt kommentár hozzáfűzése (Fűkő Erik)</h2>
-  <ol>
-    <li>
-      <br>
-      <img src="képek/tesztkép.png" />
-    </li>
-  </ol>
+ <h2>Teszt kommentár hozzáfűzése (Fűkő Erik)
+
+ <img src="képek/tesztkép.png" />
+ </h2>
 
 <h3>Készítette: Fűkő Erik, Boros Máté</h3>
 
