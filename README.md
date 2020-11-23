@@ -63,15 +63,18 @@
   <li>Elsőnek commitoltam a gépemen lévő repoba.</li>
   <img src="képek/bm1.png" />
   
+  <br>
   <li>Új fájl hozzáadása a repository-hoz (Fűkő Erik)
   <img src="képek/commit_e.PNG" />
   </li>
-  
+  <br>
   <li>Merge (Fűkő Erik)
   <img src="képek/merge_e.PNG" />
+  <br>
   <img src="képek/merge_e2.png" />
   </li>
   
+  <br>
   <li>Pull (Fűkő Erik)
   <img src="képek/pull_e.PNG" />
   </li>
