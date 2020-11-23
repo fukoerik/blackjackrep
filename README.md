@@ -77,7 +77,7 @@
    <!----------------------------------------------------------------------------> 
 
   
-  <h2>FEjlesztési ágak összeolvasztása</h2>
+  <h2>Fejlesztési ágak összeolvasztása</h2>
   
   <ol>
     <li>
