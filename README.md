@@ -87,8 +87,11 @@
     </li>
     
     <li>
+        Merge (Fűkő Erik)
+        <br>
         <img src="képek/merge_e2.png" />
     </li>
+    
   </ol>
   
   <h2>A helyi változtartások feltöltése a távoli repoba</h2>
