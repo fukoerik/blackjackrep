@@ -64,16 +64,16 @@
   <img src="képek/bm1.png" />
   
   <li>Új fájl hozzáadása a repository-hoz (Fűkő Erik)
-  <img src="képek/commit_e.png" />
+  <img src="képek/commit_e.PNG" />
   </li>
   
   <li>Merge (Fűkő Erik)
-  <img src="képek/merge_e.png" />
+  <img src="képek/merge_e.PNG" />
   <img src="képek/merge_e2.png" />
   </li>
   
   <li>Pull (Fűkő Erik)
-  <img src="képek/pull_e.png" />
+  <img src="képek/pull_e.PNG" />
   </li>
   
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
