@@ -74,7 +74,7 @@
             <img src="képek/commit_e.PNG" >
         </li>
   </ol>
-   <!----------------------------------------------------------------------------> 
+<!----------------------------------------------------------------------------> 
 
   
   <h2>Fejlesztési ágak összeolvasztása</h2>
@@ -85,8 +85,7 @@
         <br>
         <img src="képek/merge_e.PNG" />
     </li>
-  
-  <ol>
+    
     <li>
         Merge (Fűkő Erik)
         <br>
@@ -94,25 +93,51 @@
     </li>
     
   </ol>
-  
+
+<!---------------------------------------------------------------------------->   
   <h2>A helyi változtartások feltöltése a távoli repoba</h2>
-  
- <ol>
+  <ol>
     <li>
       Pull (Fűkő Erik)
       <br>
       <img src="képek/pull_e.PNG" />
     </li>
- </ol>
-
-  
-  <ol>
-    <li>
-      Kommentár hozzáfűzése a teszthez , végül merge pull-request (Fűkő Erik)
-      <br>
-      <img src="képek/tesztkép.png" />
-    </li>
   </ol>
-  
-  <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
+
+<!---------------------------------------------------------------------------->   
+<h2>Az új branch-ben történt változtatások ellenőrzése (pull request)</h2>
+<h3>Készítette: Györgyi Gyula</h3>
+
+<ol>
+    <li>
+        Pull requestet a GitHubon keresztül lehet létrehozni.
+        <br>
+        <img src="képek/pullrequest_letrehoz.png" alt="request létrehozása">
+    </li>
+    <li>
+        A <b>Create pull request</b> lehetőséget választva meg kell adnunk
+        azt a branchet, amelyet be szeretnénk olvbasztani.
+        <br>
+        <img src="képek/pullrequest_branchmegadasa.png" alt="Branch megadása">
+    </li>
+    <li>
+        A következő képernyőn megadhatunk leírást a requesthez.
+        <br>
+        <img src="képek/pullrequest_leírás.png" alt="Leírás megadása">
+    </li>
+    <li>
+        Majd a <b>Create Pull request</b> gombra kattintav létrehozhatjuk azt.
+        <br>
+        Innentől kezdve a többiek kommenteket fűzhetnek a requesthez, majd ha mindenki megállapodott
+        <br>
+        beolvasztják a főágba.
+    </li>
+</ol>
+<!---------------------------------------------------------------------------->
+<h2>Kommentek hozzáfűzése</h2>
+<h3>Készítette: Fűkő Erik, Boros Máté</h3>
+
+
+<!---------------------------------------------------------------------------->
+ <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
