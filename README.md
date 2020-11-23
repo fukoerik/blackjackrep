@@ -103,9 +103,10 @@
       <br>
       <img src="képek/pull_e.PNG" />
     </li>
+ </ol>
 
   
-
+  <ol>
     <li>
       Kommentár hozzáfűzése a teszthez , végül merge pull-request (Fűkő Erik)
       <br>
