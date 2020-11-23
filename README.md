@@ -103,5 +103,13 @@
       <img src="képek/pull_e.PNG" />
     </li>
   </ol>
+  
+    <ol>
+    <li>
+      Kommentár hozzáfűzése a teszthez , végül merge pull-request (Fűkő Erik)
+      <br>
+      <img src="képek/tesztkép.png" />
+    </li>
+  </ol>
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
