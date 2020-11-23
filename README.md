@@ -53,7 +53,11 @@
 
   </ol>
 
+  <li>Elsőnek commitoltam a gépemen lévő repoba.</li>
+  <img src="képek/bm1.png" />
   
-  
+  <li>Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.
+  <img src="képek/bm2.png" />
+  </li>
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
