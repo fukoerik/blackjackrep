@@ -77,7 +77,7 @@
    <!----------------------------------------------------------------------------> 
 
   
-  <h2>FEjlesztési ágak összeolvasztása</h2>
+  <h2>Fejlesztési ágak összeolvasztása</h2>
   
   <ol>
     <li>
@@ -85,20 +85,34 @@
         <br>
         <img src="képek/merge_e.PNG" />
     </li>
-    
+  
+  <ol>
     <li>
+        Merge (Fűkő Erik)
+        <br>
         <img src="képek/merge_e2.png" />
     </li>
+    
   </ol>
   
   <h2>A helyi változtartások feltöltése a távoli repoba</h2>
   
-  <ol>
+ <ol>
     <li>
       Pull (Fűkő Erik)
       <br>
       <img src="képek/pull_e.PNG" />
     </li>
+ </ol>
+
+  
+  <ol>
+    <li>
+      Kommentár hozzáfűzése a teszthez , végül merge pull-request (Fűkő Erik)
+      <br>
+      <img src="képek/tesztkép.png" />
+    </li>
   </ol>
+  
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
