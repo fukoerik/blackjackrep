@@ -80,16 +80,29 @@
   <img src="képek/commit_e.PNG" />
   </li>
   <br>
-  <li>Merge (Fűkő Erik)
-  <img src="képek/merge_e.PNG" />
-  <br>
-  <img src="képek/merge_e2.png" />
-  </li>
   
-  <br>
-  <li>Pull (Fűkő Erik)
-  <img src="képek/pull_e.PNG" />
-  </li>
+  <h2>FEjlesztési ágak összeolvasztása</h2>
   
+  <ol>
+    <li>
+        Merge (Fűkő Erik)
+        <br>
+        <img src="képek/merge_e.PNG" />
+    </li>
+    
+    <li>
+        <img src="képek/merge_e2.png" />
+    </li>
+  </ol>
+  
+  <h2>A helyi változtartások feltöltése a távoli repoba</h2>
+  
+  <ol>
+    <li>
+      Pull (Fűkő Erik)
+      <br>
+      <img src="képek/pull_e.PNG" />
+    </li>
+  </ol>
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
