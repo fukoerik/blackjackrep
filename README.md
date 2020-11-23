@@ -97,7 +97,7 @@
   
   <h2>A helyi változtartások feltöltése a távoli repoba</h2>
   
-
+ <ol>
     <li>
       Pull (Fűkő Erik)
       <br>
@@ -111,7 +111,7 @@
       <br>
       <img src="képek/tesztkép.png" />
     </li>
-  
+  </ol>
   
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
