@@ -56,24 +56,22 @@
         <li>
             Elsőnek commitoltam a gépemen lévő repoba.(Boros Máté)
             <br>
-            <img src="képek/bm1.png" />
+            <img src="képek/bm1.png" >
         </li>
         <li>
             Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.(Boros Máté)
             <br>
-            <img src="képek/bm2.png" />
+            <img src="képek/bm2.png" >
         </li>
-  
-
         <li>
             Elsőnek commitoltam a gépemen lévő repoba. (Boros Máté)
             <br>
-            <img src="képek/bm1.png" />
+            <img src="képek/bm1.png" >
         </li>
         <li>
             Új fájl hozzáadása a repository-hoz (Fűkő Erik)
             <br>
-            <img src="képek/commit_e.PNG" />
+            <img src="képek/commit_e.PNG" >
         </li>
   </ol>
    <!----------------------------------------------------------------------------> 
