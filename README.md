@@ -49,32 +49,59 @@
           Ekkor elkezdi letölteni a repo tartalmát a megadottak szerint, ha végzett szerkeszthetjük.
           <img src="képek/clone_folyamatban.png" />
       </li>
-      
-
   </ol>
+ <!----------------------------------------------------------------------------> 
+    <h2>Új tartalom hozzáadása</h2>
+    <ol>
+        <li>
+            Elsőnek commitoltam a gépemen lévő repoba.(Boros Máté)
+            <br>
+            <img src="képek/bm1.png" >
+        </li>
+        <li>
+            Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.(Boros Máté)
+            <br>
+            <img src="képek/bm2.png" >
+        </li>
+        <li>
+            Elsőnek commitoltam a gépemen lévő repoba. (Boros Máté)
+            <br>
+            <img src="képek/bm1.png" >
+        </li>
+        <li>
+            Új fájl hozzáadása a repository-hoz (Fűkő Erik)
+            <br>
+            <img src="képek/commit_e.PNG" >
+        </li>
+  </ol>
+   <!----------------------------------------------------------------------------> 
 
-  <li>Elsőnek commitoltam a gépemen lévő repoba.</li>
-  <img src="képek/bm1.png" />
   
-  <li>Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.
-  <img src="képek/bm2.png" />
-  </li>
+  <h2>Fejlesztési ágak összeolvasztása</h2>
   
-  <li>Elsőnek commitoltam a gépemen lévő repoba.</li>
-  <img src="képek/bm1.png" />
+  <ol>
+    <li>
+        Merge (Fűkő Erik)
+        <br>
+        <img src="képek/merge_e.PNG" />
+    </li>
+    
+    <li>
+        Merge (Fűkő Erik)
+        <br>
+        <img src="képek/merge_e2.png" />
+    </li>
+    
+  </ol>
   
-  <li>Új fájl hozzáadása a repository-hoz (Fűkő Erik)
-  <img src="képek/commit_e" />
-  </li>
+  <h2>A helyi változtartások feltöltése a távoli repoba</h2>
   
-  <li>Merge (Fűkő Erik)
-  <img src="képek/merge_e" />
-  <img src="képek/merge_e2" />
-  </li>
-  
-  <li>Pull (Fűkő Erik)
-  <img src="képek/pull_e" />
-  </li>
-  
+  <ol>
+    <li>
+      Pull (Fűkő Erik)
+      <br>
+      <img src="képek/pull_e.PNG" />
+    </li>
+  </ol>
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
