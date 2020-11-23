@@ -85,7 +85,8 @@
         <br>
         <img src="képek/merge_e.PNG" />
     </li>
-    
+  
+  <ol>
     <li>
         Merge (Fűkő Erik)
         <br>
@@ -104,12 +105,13 @@
     </li>
   </ol>
   
-    <ol>
+   <ol>
     <li>
       Kommentár hozzáfűzése a teszthez , végül merge pull-request (Fűkő Erik)
       <br>
       <img src="képek/tesztkép.png" />
     </li>
   </ol>
+  
   <b>Készítették:</b> Fűkő Erik, Boros Máté, Györgyi Gyula
  
