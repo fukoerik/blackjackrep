@@ -49,37 +49,35 @@
           Ekkor elkezdi letölteni a repo tartalmát a megadottak szerint, ha végzett szerkeszthetjük.
           <img src="képek/clone_folyamatban.png" />
       </li>
-      
-
   </ol>
-  
+ <!----------------------------------------------------------------------------> 
     <h2>Új tartalom hozzáadása</h2>
-    
     <ol>
-    <li>
-        Elsőnek commitoltam a gépemen lévő repoba.(Boros Máté)
-        <br>
-        <img src="képek/bm1.png" />
-    </li>
-    <li>
-        Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.(Boros Máté)
-        <br>
-        <img src="képek/bm2.png" />
-    </li>
+        <li>
+            Elsőnek commitoltam a gépemen lévő repoba.(Boros Máté)
+            <br>
+            <img src="képek/bm1.png" />
+        </li>
+        <li>
+            Az után a projektre jobb gombal majd aztán a git nevezetű menüpontba a push-t használva feltöltöttem ide.(Boros Máté)
+            <br>
+            <img src="képek/bm2.png" />
+        </li>
   
 
-    <li>
-        Elsőnek commitoltam a gépemen lévő repoba. (Boros Máté)
-        <br>
-        <img src="képek/bm1.png" />
-    </li>
+        <li>
+            Elsőnek commitoltam a gépemen lévő repoba. (Boros Máté)
+            <br>
+            <img src="képek/bm1.png" />
+        </li>
+        <li>
+            Új fájl hozzáadása a repository-hoz (Fűkő Erik)
+            <br>
+            <img src="képek/commit_e.PNG" />
+        </li>
   </ol>
-  
-  <br>
-  <li>Új fájl hozzáadása a repository-hoz (Fűkő Erik)
-  <img src="képek/commit_e.PNG" />
-  </li>
-  <br>
+   <!----------------------------------------------------------------------------> 
+
   
   <h2>FEjlesztési ágak összeolvasztása</h2>
   
